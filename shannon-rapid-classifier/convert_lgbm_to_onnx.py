@@ -1,3 +1,4 @@
+# Copyright (c) 2023, 2024, 2025 Shannon Data AI and/or its affiliates.
 import joblib
 import pandas as pd
 import onnxmltools
