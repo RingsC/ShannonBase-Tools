@@ -1,3 +1,4 @@
+# Copyright (c) 2023, 2024, 2025 Shannon Data AI and/or its affiliates.
 import pandas as pd
 import lightgbm as lgb
 from sklearn.model_selection import train_test_split
